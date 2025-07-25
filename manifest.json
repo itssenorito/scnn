@@ -1,0 +1,10 @@
+{
+  "manifesst_vesrion": 3,
+  "name": "refresher",
+  "version": 1,
+  "description": "Clicks a specific button every 3 seconds on a website.",
+  "persmissions": ["activeTab", "scripting"],
+  "host_permissions": [
+    "https://freightpower.schneider.com/carrier/app/search"
+  ]
+}
